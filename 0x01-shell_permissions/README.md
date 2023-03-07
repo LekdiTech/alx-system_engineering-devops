@@ -1,1 +1,1 @@
-shell ppermissions
+switches the current user
